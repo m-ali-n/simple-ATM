@@ -1,8 +1,8 @@
 
-# معرفی پروژه :
+# معرفی پروژه
 
 این پروژه یک سیستم ساده شبیه‌سازی بانکداری است که با زبان C پیاده‌سازی شده و امکانات پایه‌ای یک دستگاه ATM را در محیط کنسول فراهم می‌کند.
-# Project Description :
+# Project Description 
 This project is a simple bank management system implemented in C language that simulates basic ATM functionalities in a console environment.
 
 # امکانات :
@@ -21,7 +21,7 @@ This project is a simple bank management system implemented in C language that s
 
 خروج امن از برنامه
 
-# Features :
+# Features 
 - Secure PIN login (3 attempts limit)
 
 - Create a bank account
@@ -37,7 +37,7 @@ This project is a simple bank management system implemented in C language that s
 - Safe program exit
 
 
-# ساختار برنامه:
+# ساختار برنامه
 استفاده از آرایه برای ذخیره ۱۰ تراکنش آخر
 
 استفاده از شرط‌ها و حلقه‌ها برای کنترل منطق برنامه
@@ -46,7 +46,7 @@ This project is a simple bank management system implemented in C language that s
 
 جلوگیری از ثبت تراکنش‌های نامعتبر
 
-# Program Structure:
+# Program Structure
 Uses arrays to store the last 10 transactions
 
 Uses loops and conditionals for program control
@@ -55,7 +55,7 @@ Deposits are stored as positive values, withdrawals as negative values
 
 Prevents invalid transactions
 
-# سیستم ورود  :
+# سیستم ورود  
 
 رمز پیش‌فرض: 1234
 
@@ -63,7 +63,7 @@ Prevents invalid transactions
 
 پس از ۳ بار ورود اشتباه، برنامه خاتمه می‌یابد
 
-# Login System :
+# Login System 
 
 Default PIN: 1234
 
@@ -82,7 +82,7 @@ Program terminates after 3 failed attempts
 
 تراکنش جدید جایگزین می‌گردد
 
-# Transactions System :
+# Transactions System 
 
 Only the last 10 transactions are stored
 
