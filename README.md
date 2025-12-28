@@ -55,6 +55,21 @@ Deposits are stored as positive values, withdrawals as negative values
 
 Prevents invalid transactions
 
+# نحوه اجرا
+برنامه را با کامپایلر C کامپایل کنید (مثلاً dev c++):
+
+برنامه را اجرا کنید:
+
+پس از اجرا، با وارد کردن PIN وارد برنامه شوید و از منوی اصلی استفاده کنید.
+
+# How to Run
+
+Compile the program with a C compiler (like dev c++):
+
+Run the program
+
+After running, enter your PIN to log in and use the main menu.
+
 # سیستم ورود  
 
 رمز پیش‌فرض: 1234
@@ -91,3 +106,31 @@ When transactions exceed 10:
 The oldest transaction is removed
 
 The new transaction is added
+
+# نکات مهم 
+
+قبل از واریز یا برداشت، حساب باید ایجاد شده باشد
+
+موجودی اولیه نمی‌تواند منفی باشد
+
+برداشت بیش از موجودی مجاز نیست
+
+# Important Notes
+
+Account must be created before deposit or withdrawal
+
+Initial balance cannot be negative
+
+Withdrawal cannot exceed current balance
+
+# نویسنده
+
+محمد علی نصیری
+
+کد دانشجویی:404149076
+
+# Author
+
+Mohammad ali nasiri
+
+Student ID:404149076
